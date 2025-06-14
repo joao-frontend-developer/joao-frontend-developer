@@ -4,12 +4,26 @@
 
 ---
 
+## 🚦 Open to Work
+**Estágio | Freelance | Colaborações**
+
+---
+
 ## 🚀 Sobre mim
 - 🌱 Atualmente estudando: **Full Stack — JavaScript | TypeScript | React | Next | Node | Prisma | PostgreSQL**
 - 💡 Apaixonado por tecnologia, resolver problemas e transformar ideias em soluções reais
 - 🎯 Buscando meu primeiro estágio como dev
 - 💻 Empreendendo, codando e aprendendo todos os dias
 - 🔥 Meu ikigai é: usar código pra facilitar a vida das pessoas
+
+---
+
+## 🏆 Projetos em Destaque
+| Projeto | Descrição | Tecnologias | Link |
+|---------|-----------|--------------|------|
+| **TôLivre** | Plataforma de agendamento, lembretes e cobrança para autônomos | Next.js, Node.js, Prisma, PostgreSQL | [Acesse aqui](https://github.com/joao-frontend-developer) |
+| **Gerenciador de Hábitos** | App web para criar, acompanhar e manter hábitos | React, Next.js, Redis, PostgreSQL | Em desenvolvimento |
+| **Landing Pages Profissionais** | Desenvolvimento de páginas para negócios locais | Next.js, Tailwind CSS | Sob demanda |
 
 ---
 
@@ -25,9 +39,16 @@
 
 ---
 
-## 📊 GitHub Stats
-![João GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao-frontend-developer&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-frontend-developer&layout=compact&theme=radical)
+## 📈 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-frontend-developer&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-frontend-developer&layout=compact&theme=radical"/>
+</div>
+
+---
+
+## 🐍 Snake Game dos Commits
+![snake gif](https://github.com/joao-frontend-developer/joao-frontend-developer/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -35,3 +56,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joaosilvadeveloper)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jao_developer)
 [![X](https://img.shields.io/badge/-X-black?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/jao_developer)
+
+---
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=joao-frontend-developer&style=flat-square&color=blue)
+
